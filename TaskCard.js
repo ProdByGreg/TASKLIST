@@ -30,6 +30,8 @@ const styles = StyleSheet.create({
         marginVertical: 10,
     },
     header: {
+        backgroundColor: 'lightblue',
+        borderRadius: 5 ,
         flexDirection: "row",
         justifyContent: "space-between",
         alignItems: "center",
